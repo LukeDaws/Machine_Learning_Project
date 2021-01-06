@@ -13,4 +13,6 @@ I also do some feature selection and ranking with random forest importance, as w
 
 The dataset was in regard to chronic kidney disease and taken from the UCI Machine Learning Repository.
 
-If you are interested in the code I used for this assignment please look at the .ipynb file, unfortunately the plots don't show up in github when looking through them. If you would like to look through the entire project please download the .pdf or alternatively open the .ipynb in jupyter notebooks.
+If you are interested in the code I used for this assignment please look at the .ipynb file, unfortunately the plots don't show up in github when looking through it. 
+
+If you would like to look through the entire project please download the .pdf or alternatively open the .ipynb in jupyter notebooks.

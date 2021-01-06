@@ -12,3 +12,5 @@ For this course project, I compared three different algorithms that will be used
 I also do some feature selection and ranking with random forest importance, as well as hyperparameter tuning of the 3 models.
 
 The dataset was in regards to chronic kindney disease and taken from the UCI Machine Learning Repository.
+
+Unfortunately the Plots don't show up in the .ipynb file to properly see them it will need to be opened in jupyter notbooks.
